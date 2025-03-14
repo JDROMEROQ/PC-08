@@ -1,0 +1,14 @@
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana 9\Actividad1_Semana9_Daniel_Romero\bin\Debug\net9.0\Actividad1_Semana9_Daniel_Romero.exe
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana 9\Actividad1_Semana9_Daniel_Romero\bin\Debug\net9.0\Actividad1_Semana9_Daniel_Romero.deps.json
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana 9\Actividad1_Semana9_Daniel_Romero\bin\Debug\net9.0\Actividad1_Semana9_Daniel_Romero.runtimeconfig.json
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana 9\Actividad1_Semana9_Daniel_Romero\bin\Debug\net9.0\Actividad1_Semana9_Daniel_Romero.dll
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana 9\Actividad1_Semana9_Daniel_Romero\bin\Debug\net9.0\Actividad1_Semana9_Daniel_Romero.pdb
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana 9\Actividad1_Semana9_Daniel_Romero\obj\Debug\net9.0\Actividad1_Semana9_Daniel_Romero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana 9\Actividad1_Semana9_Daniel_Romero\obj\Debug\net9.0\Actividad1_Semana9_Daniel_Romero.AssemblyInfoInputs.cache
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana 9\Actividad1_Semana9_Daniel_Romero\obj\Debug\net9.0\Actividad1_Semana9_Daniel_Romero.AssemblyInfo.cs
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana 9\Actividad1_Semana9_Daniel_Romero\obj\Debug\net9.0\Actividad1_Semana9_Daniel_Romero.csproj.CoreCompileInputs.cache
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana 9\Actividad1_Semana9_Daniel_Romero\obj\Debug\net9.0\Actividad1_Semana9_Daniel_Romero.dll
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana 9\Actividad1_Semana9_Daniel_Romero\obj\Debug\net9.0\refint\Actividad1_Semana9_Daniel_Romero.dll
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana 9\Actividad1_Semana9_Daniel_Romero\obj\Debug\net9.0\Actividad1_Semana9_Daniel_Romero.pdb
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana 9\Actividad1_Semana9_Daniel_Romero\obj\Debug\net9.0\Actividad1_Semana9_Daniel_Romero.genruntimeconfig.cache
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana 9\Actividad1_Semana9_Daniel_Romero\obj\Debug\net9.0\ref\Actividad1_Semana9_Daniel_Romero.dll

@@ -1,0 +1,14 @@
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_8\Clase_semana8\bin\Debug\net9.0\Clase_semana8.exe
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_8\Clase_semana8\bin\Debug\net9.0\Clase_semana8.deps.json
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_8\Clase_semana8\bin\Debug\net9.0\Clase_semana8.runtimeconfig.json
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_8\Clase_semana8\bin\Debug\net9.0\Clase_semana8.dll
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_8\Clase_semana8\bin\Debug\net9.0\Clase_semana8.pdb
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_8\Clase_semana8\obj\Debug\net9.0\Clase_semana8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_8\Clase_semana8\obj\Debug\net9.0\Clase_semana8.AssemblyInfoInputs.cache
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_8\Clase_semana8\obj\Debug\net9.0\Clase_semana8.AssemblyInfo.cs
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_8\Clase_semana8\obj\Debug\net9.0\Clase_semana8.csproj.CoreCompileInputs.cache
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_8\Clase_semana8\obj\Debug\net9.0\Clase_semana8.dll
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_8\Clase_semana8\obj\Debug\net9.0\refint\Clase_semana8.dll
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_8\Clase_semana8\obj\Debug\net9.0\Clase_semana8.pdb
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_8\Clase_semana8\obj\Debug\net9.0\Clase_semana8.genruntimeconfig.cache
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_8\Clase_semana8\obj\Debug\net9.0\ref\Clase_semana8.dll
