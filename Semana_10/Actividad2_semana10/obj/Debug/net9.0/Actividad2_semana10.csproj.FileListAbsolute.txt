@@ -1,0 +1,14 @@
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_10\Actividad2_semana10\bin\Debug\net9.0\Actividad2_semana10.exe
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_10\Actividad2_semana10\bin\Debug\net9.0\Actividad2_semana10.deps.json
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_10\Actividad2_semana10\bin\Debug\net9.0\Actividad2_semana10.runtimeconfig.json
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_10\Actividad2_semana10\bin\Debug\net9.0\Actividad2_semana10.dll
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_10\Actividad2_semana10\bin\Debug\net9.0\Actividad2_semana10.pdb
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_10\Actividad2_semana10\obj\Debug\net9.0\Actividad2_semana10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_10\Actividad2_semana10\obj\Debug\net9.0\Actividad2_semana10.AssemblyInfoInputs.cache
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_10\Actividad2_semana10\obj\Debug\net9.0\Actividad2_semana10.AssemblyInfo.cs
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_10\Actividad2_semana10\obj\Debug\net9.0\Actividad2_semana10.csproj.CoreCompileInputs.cache
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_10\Actividad2_semana10\obj\Debug\net9.0\Actividad2_semana10.dll
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_10\Actividad2_semana10\obj\Debug\net9.0\refint\Actividad2_semana10.dll
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_10\Actividad2_semana10\obj\Debug\net9.0\Actividad2_semana10.pdb
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_10\Actividad2_semana10\obj\Debug\net9.0\Actividad2_semana10.genruntimeconfig.cache
+C:\Users\dr405\OneDrive\Escritorio\U\Pensamiento computacional\Semana_10\Actividad2_semana10\obj\Debug\net9.0\ref\Actividad2_semana10.dll
